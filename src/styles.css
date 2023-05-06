@@ -1,6 +1,10 @@
 body{
-    text-align: center;
     background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,p{
+    text-align: center;
 }
 
 ul, li{
@@ -10,5 +14,13 @@ ul, li{
 }
 
 img{
-    background-color: khaki;
+    border: 5px solid khaki;
+    padding: 50px;
+    background-color: white;
+}
+
+.backtoHome{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
 }
